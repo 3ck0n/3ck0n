@@ -6,7 +6,7 @@
 # This script automatically changes the output audio to the next channel, just execute until 
 # your favorite channel is used. 
 #
-# You can simply bind this script to a button or define a ke shortcut to execute the script.
+# You can simply bind this script to a button or define a key shortcut to execute the script.
 
 
 # Get audio output device used for playback

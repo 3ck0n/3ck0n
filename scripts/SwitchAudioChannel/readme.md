@@ -13,7 +13,7 @@ Download SwitchAudioDevice.ps1 file to your Windows 10/11 PC.
 
 Rightclick  on ps1 file and Execute with Powershell. 
 
-Use the follow
+Use the follow shortcut if you want to execute the channel switch by double click or key binding.
 
 ## Execute via shortcut
 
